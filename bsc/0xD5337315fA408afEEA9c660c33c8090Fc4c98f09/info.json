@@ -1,0 +1,11 @@
+{
+    "name": "MetaBank",
+    "website": "https://www.mbank-token.com/#/",
+    "description": "Decentralized trading applications",
+    "explorer": "https://bscscan.com/token/0xD5337315fA408afEEA9c660c33c8090Fc4c98f09",
+    "type": "BEP20",
+    "symbol": "MBANK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xD5337315fA408afEEA9c660c33c8090Fc4c98f09"
+   }
